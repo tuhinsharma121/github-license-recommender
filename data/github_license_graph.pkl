@@ -1,0 +1,8 @@
+Äcnetworkx.classes.digraph
+DiGraph
+q)Åq}q(Unodeq}q(Ulgpl22q}q(Unamesq]q	U
+LGPL V2.1+q
+aU
+permissionqUWPquUlgpl2q}q(h]qU	LGPL V2.1qahhuUlgpl3q}q(h]qULGPL V3+qahhuUgpl22q}q(h]qUGPL V2+qahUSPquUmplq}q(h]qUMPL 1.1qahhuUapacheq}q(h]q UAPACHEq!ahUPuUagpl3q"}q#(h]q$UAGPL V3+q%ahUNPq&uUpdq'}q((h]q)UPDq*ahUPuUbsdq+}q,(h]q-UBSDq.ahUPuUmitq/}q0(h]q1UMITq2ahUPuUgpl3q3}q4(h]q5UGPL V3+q6ahhuUgpl2q7}q8(h]q9UGPL V2q:ahhuuUnode_dict_factoryq;c__builtin__
+dict
+q<Uedge_attr_dict_factoryq=h<Usuccq>}q?(h}q@(h}qAh}qBh}qCuh}qD(h}qEh7}qFuh}qGh3}qHsh}qI(h3}qJh7}qKuh}h}qLh}qMsh"}h'}qNh/}qOsh+}qP(h}qQh}qRh}qSh}qTh}qUuh/}qVh+}qWsh3}qXh"}qYsh7}uUedgeqZh?Ugraphq[}Uadjlist_dict_factoryq\h<Uadjq]h?Upredq^}q_(h}q`h+hRsh}qa(h+hUhhAuh}qb(h+hThhMhhBuh}qc(hhChhEuh}qdh+hSsh}qeh+hQsh"}qfh3hYsh'}h+}qgh/hWsh/}qhh'hOsh3}qi(hhHhhJuh7}qj(hhFhhKuuub.
