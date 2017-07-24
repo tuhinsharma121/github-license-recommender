@@ -1,0 +1,17 @@
+version: "2"
+services:
+  license:
+    build:
+      context: .
+      dockerfile: Dockerfile.license
+    image: licese:latest
+    network_mode: bridge
+    entrypoint:
+      - /bin/entrypoint.sh
+    environment:
+      SERVICE_PORT: "6009"
+      SERVICE_TIMEOUT: "900"
+    ports:
+      - "6009:6009"
+
+
