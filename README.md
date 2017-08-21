@@ -8,4 +8,12 @@ This work mainly focuses on the GitHub standard licenses. It uses the networkx a
 
 This work is highly influenced by David A. Wheeler (https://www.dwheeler.com/essays/floss-license-slide.html).
 
+# How to run this?
+
+1. ```git clone https://github.com/TuhinSharma/github-license-recommender.git```
+2. ```cd github-license-recommender```
+3. ```docker build -t license -f Dockerfile.license .```
+4. ```docker-compose -f github-license.yml up license```
+5. On a separate console ```curl -H 'Content-Type: application/json' -X POST -d '{"license_list":["MIT", "GPL V2+", "APACHE"]}' http://localhost:6009/api/v1/schemas/license_scoring```
+
 
