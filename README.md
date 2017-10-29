@@ -12,8 +12,8 @@ This work is highly influenced by David A. Wheeler (https://www.dwheeler.com/ess
 
 1. ```git clone https://github.com/TuhinSharma/github-license-recommender.git```
 2. ```cd github-license-recommender```
-3. ```docker build -t license -f Dockerfile.license .```
-4. ```docker-compose -f github-license.yml up license```
+3. ```docker-compose -f docker-compose-license.yml build```
+4. ```docker-compose -f docker-compose-license.yml up```
 5. On a separate console ```curl -H 'Content-Type: application/json' -X POST -d '{"license_list":["MIT", "GPL V2+", "APACHE"]}' http://localhost:6009/api/v1/schemas/license_scoring```
 
 
